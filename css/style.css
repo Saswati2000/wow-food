@@ -39,12 +39,14 @@
 
 a{
     /*color: #ff6b81;*/
-    color: #c44dff;
+    /*color: #c44dff;*/
+    color:darkmagenta;
     text-decoration: none;
 }
 a:hover{
-    /*color: #ff4757;*/
-    color: #c44dff;
+    /*color: #ff4757;
+    color: #c44dff;*/
+    color: blueviolet;
 }
 
 .btn{
@@ -55,13 +57,16 @@ a:hover{
 }
 .btn-primary{
     /*background-color: #ff6b81;*/
-    background-color : #c44dff;
+    /*background-color : #c44dff;*/
+    background-color: darkmagenta;
+    
     color: white;
     cursor: pointer;
 }
 .btn-primary:hover{
     color: white;
-    background-color: #ff4757;
+   /* background-color: #ff4757;*/
+   background-color: blueviolet;
 }
 h2{
     color: #2f3542;
